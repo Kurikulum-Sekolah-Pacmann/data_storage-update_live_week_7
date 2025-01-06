@@ -1,0 +1,3 @@
+luigi==3.5.0
+dbt-core 
+dbt-postgres

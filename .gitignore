@@ -1,0 +1,4 @@
+.venv
+*.log
+package-lock.json
+dbt_packages

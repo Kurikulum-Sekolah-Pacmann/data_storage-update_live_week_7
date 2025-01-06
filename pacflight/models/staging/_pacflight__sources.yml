@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: pacflight
+    database: pacflight
+    schema: bookings
+    tables:
+      - name: aircrafts_data
+      - name: airports_data
+      - name: boarding_passes
+      - name: bookings
+      - name: flights
+      - name: seats
+      - name: ticket_flights
+      - name: tickets
